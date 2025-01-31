@@ -15636,7 +15636,7 @@ dependencies = [
 [[package]]
 name = "tonic"
 version = "0.11.0"
-source = "git+https://github.com/aptos-labs/tonic.git?rev=0da1ba8b1751d6e19eb55be24cccf9ae933c666e#0da1ba8b1751d6e19eb55be24cccf9ae933c666e"
+source = "git+https://github.com/aptos-labs/tonic.git?rev=d1558bdcb5c9c10f1d56ddcb5e73a6b4f18c6b6d#d1558bdcb5c9c10f1d56ddcb5e73a6b4f18c6b6d"
 dependencies = [
  "async-stream",
  "async-trait",
@@ -15654,8 +15654,6 @@ dependencies = [
  "prost 0.12.3",
  "rustls-native-certs 0.7.0",
  "rustls-pemfile 2.1.1",
- "strum 0.26.2",
- "strum_macros 0.26.4",
  "tokio",
  "tokio-rustls 0.26.0",
  "tokio-stream",
